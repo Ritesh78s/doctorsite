@@ -442,7 +442,7 @@ nav {
   padding-bottom: 20px !important;
   z-index: 2;
 }
-nav .logo {
+nav .Newlogo {
   flex: 1;
   display: flex;
   align-items: center;
@@ -482,7 +482,7 @@ nav .btn {
   font-weight: 600;
   z-index: 2;
 }
-nav .logoutBtn {
+nav .NewlogoutBtn {
   background: linear-gradient(135deg, black, rgb(49, 49, 49));
 }
 nav .loginBtn {
@@ -545,7 +545,7 @@ nav svg {
   nav .navLinks .links a {
     font-weight: 700;
   }
-  nav .logoutBtn {
+  nav .NewlogoutBtn {
     margin-top: 20px;
   }
 }
@@ -581,9 +581,9 @@ input[type="time"]:before {
   color: #444;
   margin-right: 0.5em;
 }
-.logo-img{
+.Newlogo-img{
   width: 150px;
 }
-footer .logo-img{
+footer .Newlogo-img{
   width: 100%;
 }

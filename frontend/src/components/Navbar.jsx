@@ -4,6 +4,7 @@ import { GiHamburgerMenu } from "react-icons/gi";
 import axios from "axios";
 import { toast } from "react-toastify";
 import { Context } from "../main";
+import { MdHeight } from "react-icons/md";
 
 const Navbar = () => {
   const [show, setShow] = useState(false);
@@ -32,8 +33,9 @@ const Navbar = () => {
   return (
     <>
       <nav className={"container"}>
-        <div className="logo">
-          <img src="/logo.png" alt="logo" className="logo-img" />
+        <div className="Newlogo">
+        <img style={{ height: "200px", width: "auto"}} src={"./Newlogo.png"} alt="Newlogo" className="Newlogo-img" />
+
         </div>
         <div className={show ? "navLinks showmenu" : "navLinks"}>
           <div className="links">
