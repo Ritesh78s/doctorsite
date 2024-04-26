@@ -11,26 +11,16 @@ const Biography = ({imageUrl}) => {
           <p>Biography</p>
           <h3>Who We Are</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            blanditiis sequi aperiam. Debitis fugiat harum ex maxime illo
-            consequatur mollitia voluptatem omnis nihil nesciunt beatae esse
-            ipsam, sapiente totam aspernatur porro ducimus aperiam nisi. Ex
-            magnam voluptatum consectetur reprehenderit fugiat recusandae aut
-            similique illum natus velit, praesentium nostrum nesciunt. Deleniti,
-            nesciunt laboriosam totam iusto!
+            
+Heal-Connect traces its roots to a collective vision of transforming global healthcare accessibility. Founded by a team deeply committed to leveraging technology for social good, our platform revolutionizes the way individuals access medical services. Through innovative features such as appointment booking, virtual consultations, and AI-powered medical guidance, we prioritize affordability and inclusivity, ensuring quality care for all through membership options.
           </p>
           <p>We are all in 2024!</p>
-          <p>We are working on a MERN STACK PROJECT.</p>
+          {/* <p>We are working on a MERN STACK PROJECT.</p> */}
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
-            assumenda exercitationem accusamus sit repellendus quo optio dolorum
-            corporis corrupti. Quas similique vel minima veniam tenetur
-            obcaecati atque magni suscipit laboriosam! Veniam vitae minus nihil
-            cupiditate natus provident. Ex illum quasi pariatur odit nisi
-            voluptas illo qui ipsum mollitia. Libero, assumenda?
+          At Heal-Connect, we are a passionate group of innovators dedicated to bridging the gap in healthcare access. Driven by a shared mission to democratize healthcare, we empower patients and providers alike with flexible solutions and social impact initiatives. Our commitment extends beyond the digital realm as we actively engage in initiatives to foster healthier communities. Heal-Connect isn't just a platform; it's a movement toward equitable healthcare, striving to improve health outcomes and transform lives globally.
           </p>
-          <p>Lorem ipsum dolor sit amet!</p>
-          <p>Coding is fun!</p>
+          {/* <p>Lorem ipsum dolor sit amet!</p>
+          <p>Coding is fun!</p> */}
         </div>
       </div>
     </>
