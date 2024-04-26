@@ -60,13 +60,11 @@ const Dashboard = () => {
                 <p>Hello ,</p>
                 <h5>
                   {admin &&
-                    `${admin.firstName} ${admin.lastName}`}{" "}
+                    "Tushar Sharma"}{" "}
                 </h5>
               </div>
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Facilis, nam molestias. Eaque molestiae ipsam commodi neque.
-                Assumenda repellendus necessitatibus itaque.
+              Dedicated physician blending empathy with expertise, committed to healing minds and bodies with compassion and precision. Providing holistic care, striving to empower patients on their journey to wellness.
               </p>
             </div>
           </div>
